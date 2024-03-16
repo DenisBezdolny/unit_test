@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lesson_2___unit_testing
 {
-    internal class Cat
+    public class Cat
     {
         public void Voice()
         {

@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\lesson 2 - unit testing\lesson 2 - unit testing.csproj" />
+  </ItemGroup>
+
 </Project>
