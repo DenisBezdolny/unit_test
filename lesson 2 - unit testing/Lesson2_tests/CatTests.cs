@@ -8,7 +8,7 @@ namespace Lesson2_tests
         [Fact]
         public void Miau_must_output_at_least_one_line_to_console()
         {
-            //Assert
+            //Arrange
             var output = new StringWriter();
             Console.SetOut(output);
             var cat = new Cat();
